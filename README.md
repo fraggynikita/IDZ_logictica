@@ -49,17 +49,17 @@ ER-модель описывает основные сущности логис�
 ---
 
 ## MRP-план в тоннах
-<img width="1612" height="295" alt="image" src="https://github.com/user-attachments/assets/b5ade36d-9473-4bf1-878b-70686526403d" />
+<img width="1424" height="240" alt="image" src="https://github.com/user-attachments/assets/d13e87b4-3f8e-4db0-8c11-23b5106dc397" />
 
 ---
 
 ## MRP-план во времени
-<img width="1727" height="295" alt="image" src="https://github.com/user-attachments/assets/d26664f0-5b77-4cc5-8800-8e58661e4dda" />
+<img width="1424" height="243" alt="image" src="https://github.com/user-attachments/assets/e6adb099-2b79-433f-9dc5-1d862abbe328" />
 
 ---
 
 ## Цветовые индикаторы заказа
-<img width="1611" height="298" alt="image" src="https://github.com/user-attachments/assets/c1e91275-22f4-49af-af8d-a35963328f5c" />
+<img width="152" height="141" alt="image" src="https://github.com/user-attachments/assets/5cdcc8e1-bd63-4c35-a841-2917069620b7" />
 
 
 
