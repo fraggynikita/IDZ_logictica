@@ -54,12 +54,13 @@ ER-модель описывает основные сущности логис�
 ---
 
 ## MRP-план во времени
-<img width="1611" height="295" alt="image" src="https://github.com/user-attachments/assets/dbdd715f-c56d-47f2-a0e4-95c7c418aec6" />
+<img width="1727" height="295" alt="image" src="https://github.com/user-attachments/assets/d26664f0-5b77-4cc5-8800-8e58661e4dda" />
 
 ---
 
 ## Цветовые индикаторы заказа
-<img width="158" height="139" alt="image" src="https://github.com/user-attachments/assets/d8431efd-8e40-405e-b49c-96e7066135a4" />
+<img width="1611" height="298" alt="image" src="https://github.com/user-attachments/assets/c1e91275-22f4-49af-af8d-a35963328f5c" />
+
 
 
 
